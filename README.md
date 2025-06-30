@@ -153,7 +153,7 @@
     <a href="https://yughaalfarez.github.io/Perkenalan-Diri/" target="_blank">About me</a>
   </div>
 
-  <footer>© 2025 Yugha. All rights reserved.</footer>
+  <footer>ib:@YughaDev</footer>
 
   <!-- Floating dots background -->
   <div class="dots" id="dot-container"></div>
